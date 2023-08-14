@@ -8,10 +8,10 @@ A bike-sharing program that operates in Chicago, Illinois, United States.
 
 Predicting the number of trips for Divvy bikes on a monthly basis
 
-## Expected Outcome : 
+## Outcome : 
 
-1. Resource Optimization: Strategically allocate bikes and docking stations to high-demand areas, reducing instances of unavailability or overcrowding.
+**1. Resource Optimization**: Strategically allocate bikes and docking stations to high-demand areas, reducing instances of unavailability or overcrowding.
 
-2. Expansion and Infrastructure Planning: Installing additional docking stations or expanding Divvy’s bike fleet during months with high demand. 
+**2. Expansion and Infrastructure Planning**: Installing additional docking stations or expanding Divvy’s bike fleet during months with high demand. 
  
 
